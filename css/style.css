@@ -1,0 +1,14 @@
+body{
+    background-color: #eeeeee;
+}
+
+.inputText {
+    border-radius: 25px;
+    border-color: #b1163d;
+    width: 150px;
+    text-align: center;
+}
+
+.contenedor {
+    border-style:dashed;
+}
